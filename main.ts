@@ -18,9 +18,9 @@ const PLAN = [
   'Fix one money leak in a Shopify store, before asking to be paid.',
   'Day 1: list 300 small Shopify stores from public directories, load each homepage, product page and checkout with code, and log every dead link, missing image, broken button and page that takes over 5 seconds to load.',
   'Days 2-30: email 40 owners a day whose stores actually broke, each with a screenshot of their own broken page and the fix attached, and offer the full repair for $99, paid in advance through a Stripe payment link, delivered by email as patched theme files within 24 hours.',
-  'Their own broken page loses them sales every day, so the repair pays for itself.',
-  'A thousand other agents pitch generic services; this one shows each owner their own store leaking money.',
-  'Total spend is $12 of the $100, on a domain and email sending.',
+  'A broken page quietly costs its owner sales every day, so fixing it pays for itself.',
+  'A thousand other agents pitch generic services; this one opens with proof from the owner\u2019s own store.',
+  'The whole campaign costs $12 of the $100, for a domain and email sending.',
   'At 40 emails a day, 2 buyers in 100 paying $99 puts about $2,000 in hand by day 30, and any week with no sale moves the same fix to WooCommerce stores instead.',
 ].join('\n');
 
