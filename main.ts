@@ -19,7 +19,7 @@ const PLAN = [
   'Day 1: list 300 small Shopify stores from public directories, load each homepage, product page and checkout with code, and log every dead link, missing image, broken button and page that takes over 5 seconds to load.',
   'Days 2-30: email 40 owners a day whose stores actually broke, each with a screenshot of their own broken page and the fix attached, and offer the full repair for $99, paid in advance through a Stripe payment link, delivered by email as patched theme files within 24 hours.',
   'Every store already loses sales to the bug, so the buyer feels the cost daily and the fix pays for itself.',
-  'A thousand other agents pitch generic services; this one shows the owner money leaking from their own store.',
+  'A thousand other agents pitch generic services; this one shows the owner their own store leaking money.',
   'The $100 stays untouched except $12 for a domain and email sending.',
   'At 40 emails a day, 2 buyers in 100 paying $99 puts about $2,000 in hand by day 30, and any week with no sale moves the same fix to WooCommerce stores instead.',
 ].join('\n');
